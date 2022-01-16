@@ -1,41 +1,41 @@
 const quizData = [
     {
-        question: 'Who is your favourite female singer ?',
+        question: 'Who is Surajit\'s favourite female singer ?',
         a: 'Ariana Grande',
         b: 'Taylor Swift',
         c: 'Selena Gomez',
         d: 'Dua Lipa',
         correct: 'a'
     }, {
-        question: 'What is your bias name in BlackPink ?',
+        question: 'What is Surajit\'s bias name in BlackPink ?',
         a: 'Lisa',
         b: 'Jisso',
         c: 'Jennie',
         d: 'Rose',
         correct: 'c'
     } , {
-        question: 'What is your favourite Anime name ?',
+        question: 'What is the name of Surajit favourite Anime ?',
         a: 'Demon Slayer',
         b: 'Attack On Titan',
         c: 'Let Me Eat Your Pancreas',
         d: 'That Time I Got Reincernated As A Slime',
         correct: 'b'
     }, {
-        question: 'What is favourite Programming Language ?',
+        question: 'What is Surajit\'s favourite Programming Language ?',
         a: 'Java',
         b: 'C / C++ / C#',
         c: 'Ruby',
         d: 'JavaSript',
         correct: 'd'
     }, {
-        question: 'What kind of Job you want to do after graduation ?',
+        question: 'What kind of Job Surajit want to do after graduation ?',
         a: 'Web Developer',
         b: 'Android Developer',
         c: 'Game Developer',
         d: 'Software Developer',
         correct: 'a'
     }, {
-        question: 'Which one of these is yours most favourite thing to do ?',
+        question: 'Which one of this is Surajit\'s most favourite thing to do ?',
         a: 'Sleeping',
         b: 'Watching Anime',
         c: 'Playing',
